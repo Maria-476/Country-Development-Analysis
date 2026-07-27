@@ -2,7 +2,7 @@
 
 Unsupervised clustering + supervised classification pipeline that groups 167 countries into development tiers (**Developed / Developing / Under Developed**) using socio-economic and health indicators — plus an interactive Streamlit app to explore the results and simulate "what-if" policy scenarios.
 
-**🔗 Live App:** [your-app-url.streamlit.app](https://country-development-analysis-7svbcyvhsyvvcsgnffymww.streamlit.app/)
+**🔗 Live App:** [Click here to open the app](https://country-development-analysis-7svbcyvhsyvvcsgnffymww.streamlit.app/)
 
 ---
 
